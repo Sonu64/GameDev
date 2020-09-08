@@ -1,0 +1,1 @@
+This is the Code stack for the Text101 Section of Complete Unity Developer 2D in Udemy. This is created for my personal use generally, and has no relation with gamedev.tv's official repo for the course.
